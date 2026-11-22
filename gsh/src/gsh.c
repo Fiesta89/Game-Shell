@@ -8,7 +8,6 @@
 // supports standard input redirection with '<', and displays game
 // descriptions using the --help option.
 
-
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
